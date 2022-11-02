@@ -1,0 +1,6 @@
+#                       #
+# dndCharacterGenerator #
+#                       #
+
+Goals
+- Fuck bitches
